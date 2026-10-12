@@ -1,0 +1,3 @@
+[submodule "libs/git-rebase-lab"]
+	path = libs/git-rebase-lab
+	url = git@github.com:egotrishin/git-rebase-lab.git
